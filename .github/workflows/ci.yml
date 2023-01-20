@@ -1,0 +1,15 @@
+name: Auto Add Project
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+   update-readme:
+    name: Add to project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
