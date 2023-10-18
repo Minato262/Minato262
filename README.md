@@ -1,5 +1,5 @@
-# Hi, I'm kaywu 👋
+# Hi, I'm kay 👋
 
-I'm focused on **Algorithm** and **Distributed Systems**.
+I'm focused on **Algorithm**、**operating system** and **Distributed Systems**.
 
-To read more about me: [Blog](http://kaywu.site)
+To read more about me: [blog](http://kaywu.site)
